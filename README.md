@@ -1,1 +1,1 @@
-# svelt 로 만드는 ToDo 리스트
+# svelte 로 만드는 ToDo 리스트
